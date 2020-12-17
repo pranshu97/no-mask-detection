@@ -1,4 +1,5 @@
 # no-mask-detection
+
 Detects if a person is not wearing mask
 
 ----------------------------------------------
